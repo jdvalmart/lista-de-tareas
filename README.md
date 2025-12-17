@@ -1,9 +1,9 @@
-🧪 Lista de tareas - React + Vite
-¡Bienvenido a la lista de tareas! Este es un proyecto educativo diseñado para dominar los fundamentos de React, el manejo de estado con Hooks, y la estilización moderna con Tailwind CSS.
+# 🧪 Lista de tareas - React + Vite
+##¡Bienvenido a la lista de tareas! Este es un proyecto educativo diseñado para dominar los fundamentos de React, el manejo de estado con Hooks, y la estilización moderna con Tailwind CSS.
 
 🚀 Puedes ver la aplicación en vivo aquí:**[Lista de tareas](https://listtaks.netlify.app/)**
 
-🛠️ Tecnologías Utilizadas
+## 🛠️ Tecnologías Utilizadas
 React (Vite): Biblioteca principal para la interfaz.
 Tailwind CSS: Framework de utilidades para un diseño rápido y responsivo.
 Hooks: * useState para la memoria de datos.
